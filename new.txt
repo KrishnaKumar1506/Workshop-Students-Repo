@@ -1,0 +1,3 @@
+my name is krishna 
+today i attended the git and github workshop 
+i leraned what is the is use of git na dgithub and what are the  different commands that are used in it 
